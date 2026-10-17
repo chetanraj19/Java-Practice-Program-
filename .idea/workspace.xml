@@ -5,94 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d677e7a-6a81-4b4a-94db-b9bb1c343ec0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Abstract/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Abstract/WagonR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArraySwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArraysPractices/ArrayPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArraysPractices/LowestAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArraysPractices/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BinarayToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CollectionMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Collectionss/AllCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Collectionss/ArrayListNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Collectionss/ArrayListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Collectionss/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Collectionss/RandomClasss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/CeilingOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/FloorOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/InfiniteArrayBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/OrderAgnosticBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/RBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EvenDigitCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FectorialOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindDuplicatesElementsInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Enumm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Enumm2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Once.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Interface/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IntersectionOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IteratorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaximumWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseWordsInSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RotateAraryKTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SearchIn2dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Static_Concept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringCharectorRemoving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Stringnew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Threads/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Threads/TE1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TransposeOfMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TwoSumProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/incapsulation/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/incapsulation/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/AdvCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/MethodOverRiding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/Super_Concept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/UseCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/VACalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Anonymous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/BUGS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Exception/ArithmeticE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Exception/ArrayExc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Exception/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Exception/ExceptionProgram1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Exception/ThrowExc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Once.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphims/Upper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/RowColMatrixBS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/org/example" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -153,6 +68,7 @@
     "Application.ReverseWordsInSentence.executor": "Run",
     "Application.RotateAraryKTime.executor": "Run",
     "Application.RotateArray.executor": "Run",
+    "Application.RowColMatrixBS.executor": "Debug",
     "Application.SearchIn2dArray.executor": "Run",
     "Application.SecondLargest.executor": "Run",
     "Application.Static_Concept.executor": "Run",
@@ -212,6 +128,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/FindDuplicatesElementsInArray.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DSA/RowColMatrixBS.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/DSA/BinarySearch.java</url>
