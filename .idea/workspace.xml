@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d677e7a-6a81-4b4a-94db-b9bb1c343ec0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/BubbleSortAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/InsertionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/RowColMatrixBS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DSA/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +45,9 @@
     "Application.ArraySwap.executor": "Run",
     "Application.BinarayToDecimal.executor": "Run",
     "Application.BinarySearch.executor": "Run",
+    "Application.BubbleSortAlgo.executor": "Run",
     "Application.CeilingOfNumber.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
     "Application.DecimalToBinary.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.EvenDigitCount.executor": "Run",
@@ -53,6 +58,7 @@
     "Application.FloorOfNumber.executor": "Run",
     "Application.GFG.executor": "Run",
     "Application.InfiniteArrayBS.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.IntersectionOfArray.executor": "Run",
     "Application.IteratorInterface.executor": "Run",
     "Application.LinearSearch.executor": "Run",
@@ -71,6 +77,7 @@
     "Application.RowColMatrixBS.executor": "Debug",
     "Application.SearchIn2dArray.executor": "Run",
     "Application.SecondLargest.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.Static_Concept.executor": "Run",
     "Application.StringCharectorRemoving.executor": "Run",
     "Application.Stringnew.executor": "Run",
@@ -143,6 +150,19 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DSA/BubbleSortAlgo.java</url>
+          <line>11</line>
+          <properties class="org.example.DSA.BubbleSortAlgo" method="bSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
